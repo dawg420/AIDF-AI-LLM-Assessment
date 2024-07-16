@@ -1,0 +1,431 @@
+﻿[
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "CauseNode"
+      ],
+      "properties": {
+        "name": "Automated packing robots",
+        "source": "Report2.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:0"
+    }
+  },
+  {
+    "n": {
+      "identity": 1,
+      "labels": [
+        "EffectNode"
+      ],
+      "properties": {
+        "name": "Ocado shares rally",
+        "source": "Report2.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "CauseNode"
+      ],
+      "properties": {
+        "name": "Narrowing of losses",
+        "source": "Report2.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:2"
+    }
+  },
+  {
+    "n": {
+      "identity": 3,
+      "labels": [
+        "CauseNode"
+      ],
+      "properties": {
+        "name": "Downgrade by analysts",
+        "source": "Report2.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:3"
+    }
+  },
+  {
+    "n": {
+      "identity": 4,
+      "labels": [
+        "EffectNode"
+      ],
+      "properties": {
+        "name": "Stock price plummet",
+        "source": "Report2.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:4"
+    }
+  },
+  {
+    "n": {
+      "identity": 5,
+      "labels": [
+        "CauseNode"
+      ],
+      "properties": {
+        "name": "Increase in revenue",
+        "source": "Report2.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:5"
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "EffectNode"
+      ],
+      "properties": {
+        "name": "Reduction in pre-tax losses",
+        "source": "Report2.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:6"
+    }
+  },
+  {
+    "n": {
+      "identity": 7,
+      "labels": [
+        "CauseNode"
+      ],
+      "properties": {
+        "name": "Lifting of guidance",
+        "source": "Report2.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:7"
+    }
+  },
+  {
+    "n": {
+      "identity": 8,
+      "labels": [
+        "EffectNode"
+      ],
+      "properties": {
+        "name": "Expected margins in mid-teens percentage range",
+        "source": "Report2.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:8"
+    }
+  },
+  {
+    "n": {
+      "identity": 9,
+      "labels": [
+        "CauseNode"
+      ],
+      "properties": {
+        "name": "Recovery of shares",
+        "source": "Report2.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:9"
+    }
+  },
+  {
+    "n": {
+      "identity": 10,
+      "labels": [
+        "EffectNode"
+      ],
+      "properties": {
+        "name": "Increase in share price",
+        "source": "Report2.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:10"
+    }
+  },
+  {
+    "n": {
+      "identity": 11,
+      "labels": [
+        "CauseNode"
+      ],
+      "properties": {
+        "name": "Relegation from FTSE 100",
+        "source": "Report2.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:11"
+    }
+  },
+  {
+    "n": {
+      "identity": 12,
+      "labels": [
+        "EffectNode"
+      ],
+      "properties": {
+        "name": "Shares down 47% in year-to-date",
+        "source": "Report2.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 13,
+      "labels": [
+        "ViewNode"
+      ],
+      "properties": {
+        "name": "Concerns about long-term plans",
+        "source": "Report2.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:13"
+    }
+  },
+  {
+    "n": {
+      "identity": 14,
+      "labels": [
+        "ViewNode"
+      ],
+      "properties": {
+        "name": "Doubt on high tech model",
+        "source": "Report2.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:14"
+    }
+  },
+  {
+    "n": {
+      "identity": 15,
+      "labels": [
+        "CauseNode"
+      ],
+      "properties": {
+        "name": "Revenue increase in Technology Solutions business",
+        "source": "Report2.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:15"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "ViewNode"
+      ],
+      "properties": {
+        "name": "Investors losing patience",
+        "source": "Report2.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:16"
+    }
+  },
+  {
+    "n": {
+      "identity": 17,
+      "labels": [
+        "ViewNode"
+      ],
+      "properties": {
+        "name": "The S&P 500 is an accident waiting to happen",
+        "source": "Opinion_ ‘The S&P 500 is an accident waiting to happen’ — but it could be a long wait - MarketWatch.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:17"
+    }
+  },
+  {
+    "n": {
+      "identity": 18,
+      "labels": [
+        "ViewNode"
+      ],
+      "properties": {
+        "name": "The U.S. stock market is in a slow motion melt-up",
+        "source": "Opinion_ ‘The S&P 500 is an accident waiting to happen’ — but it could be a long wait - MarketWatch.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:18"
+    }
+  },
+  {
+    "n": {
+      "identity": 19,
+      "labels": [
+        "CauseNode"
+      ],
+      "properties": {
+        "name": "Excesses in the stock market becoming more evident and risks rising",
+        "source": "Opinion_ ‘The S&P 500 is an accident waiting to happen’ — but it could be a long wait - MarketWatch.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:19"
+    }
+  },
+  {
+    "n": {
+      "identity": 20,
+      "labels": [
+        "EffectNode"
+      ],
+      "properties": {
+        "name": "AI-driven bull market starting to tire",
+        "source": "Opinion_ ‘The S&P 500 is an accident waiting to happen’ — but it could be a long wait - MarketWatch.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:20"
+    }
+  },
+  {
+    "n": {
+      "identity": 21,
+      "labels": [
+        "CauseNode"
+      ],
+      "properties": {
+        "name": "AI-related capital spending too high with lack of killer application",
+        "source": "Opinion_ ‘The S&P 500 is an accident waiting to happen’ — but it could be a long wait - MarketWatch.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:21"
+    }
+  },
+  {
+    "n": {
+      "identity": 22,
+      "labels": [
+        "CauseNode"
+      ],
+      "properties": {
+        "name": "Looming power shortages constraining AI growth",
+        "source": "Opinion_ ‘The S&P 500 is an accident waiting to happen’ — but it could be a long wait - MarketWatch.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:22"
+    }
+  },
+  {
+    "n": {
+      "identity": 23,
+      "labels": [
+        "EffectNode"
+      ],
+      "properties": {
+        "name": "Valuation and breadth indicators flashing concerning signs of excesses",
+        "source": "Opinion_ ‘The S&P 500 is an accident waiting to happen’ — but it could be a long wait - MarketWatch.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:23"
+    }
+  },
+  {
+    "n": {
+      "identity": 24,
+      "labels": [
+        "ViewNode"
+      ],
+      "properties": {
+        "name": "Market bull has more room to run",
+        "source": "Opinion_ ‘The S&P 500 is an accident waiting to happen’ — but it could be a long wait - MarketWatch.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:24"
+    }
+  },
+  {
+    "n": {
+      "identity": 25,
+      "labels": [
+        "CauseNode"
+      ],
+      "properties": {
+        "name": "Generative AI driving robust sales in both infrastructure and SaaS layers",
+        "source": "Nvidia_report1.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:25"
+    }
+  },
+  {
+    "n": {
+      "identity": 26,
+      "labels": [
+        "EffectNode"
+      ],
+      "properties": {
+        "name": "Impressive rally of +35.2% after double beat FQ1 '25 results",
+        "source": "Nvidia_report1.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:26"
+    }
+  },
+  {
+    "n": {
+      "identity": 27,
+      "labels": [
+        "CauseNode"
+      ],
+      "properties": {
+        "name": "Potential redundancy/bullwhip effect, expensive ASPs/intensified in-house AI chip developments, and tougher YoY comparisons",
+        "source": "Nvidia_report1.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:27"
+    }
+  },
+  {
+    "n": {
+      "identity": 28,
+      "labels": [
+        "ViewNode"
+      ],
+      "properties": {
+        "name": "Belief in Buy and Hold status for Nvidia Corporation",
+        "source": "Nvidia_report1.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:28"
+    }
+  },
+  {
+    "n": {
+      "identity": 29,
+      "labels": [
+        "CauseNode"
+      ],
+      "properties": {
+        "name": "Uncertainty baked into stock valuations and prices",
+        "source": "Nvidia_report1.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:29"
+    }
+  },
+  {
+    "n": {
+      "identity": 30,
+      "labels": [
+        "EffectNode"
+      ],
+      "properties": {
+        "name": "Recommended investors to buy the pullback for long-term capital appreciation",
+        "source": "Nvidia_report1.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:30"
+    }
+  },
+  {
+    "n": {
+      "identity": 31,
+      "labels": [
+        "CauseNode"
+      ],
+      "properties": {
+        "name": "Market reeling from prolonged inflationary pain",
+        "source": "Nvidia_report1.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:31"
+    }
+  },
+  {
+    "n": {
+      "identity": 32,
+      "labels": [
+        "EffectNode"
+      ],
+      "properties": {
+        "name": "Impressive +56.7% rally compared to wider market",
+        "source": "Nvidia_report1.pdf"
+      },
+      "elementId": "4:95b359c2-2128-453c-ad59-45da2072292d:32"
+    }
+  }
+]
