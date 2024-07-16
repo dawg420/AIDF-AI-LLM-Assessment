@@ -82,7 +82,7 @@ During the development of this project, several difficulties were encountered:
 1. **Formatting and Prompt Issues**: Ensuring the correct formatting of the prompt and response was challenging. I had to refine the prompt multiple times to ensure the LLM generated the correct structure for nodes and edges.
 2. **Standardizing Relationship Types**: Limiting and standardizing the relationship types to a fixed set (e.g., CAUSE, MAY_CAUSE, etc.) was necessary to ensure consistency in the graph.
 3. **Node and Edge Validation**: Implementing validation to avoid duplicate nodes and ensure all edges are valid required careful handling of the data.
-4. **Access to articles** As the website provided SeekingAplha requires a subscription beyond the first article, I have sourced a few more articles from various other places.
+4. **Access to articles**: As the website provided SeekingAplha requires a subscription beyond the first article, I have sourced a few more articles from various other places.
 
 ## Future Optimizations
 
