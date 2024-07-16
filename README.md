@@ -69,7 +69,7 @@ This will process each specified PDF file and update the graph database with nod
 
 ## Sample Graph
 
-A sample graph image is included in the project:
+A sample graph image is included in the project. It is the result of running the existing code on the articles currently stored in 'data/reports'.
 
 ![Sample Graph](data/graph_database/sample_graph.png)
 
