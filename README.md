@@ -57,7 +57,9 @@ To run the project and process PDF reports do the following setup first:
 ```
 pip install -r requirements.txt
 ```
-Make sure that you have a .env file in your directory with a valid `OPENAI_API_KEY`. Store your documents in `data/reports` and you can run the project as such. The documents can only be in pdf format for now.
+For this project, I am running a local instance of Neo4j Desktop to store the graph. A local instance of a database will need to be running for the code to work.
+
+Make sure that you have a .env file in your root directory with a valid `OPENAI_API_KEY`. Store your documents in `data/reports` and you can run the project as such. The documents can only be in pdf format for now.
 
 ```bash
 python src/main.py data/reports/report1.pdf data/reports/report2.pdf data/reports/report3.pdf
